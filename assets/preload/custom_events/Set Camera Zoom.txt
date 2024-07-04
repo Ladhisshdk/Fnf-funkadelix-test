@@ -1,0 +1,3 @@
+Set Camara zoom tutorial
+Value 1:Camara zoom es permanente hasta que lo vuelvas normal
+Value 2: dejalo en blanco xdd
